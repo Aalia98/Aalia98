@@ -28,5 +28,5 @@ One of my key projects is a full-stack e-commerce platform built with Go, React,
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalia98)
-📧 aaliaamin98@gmail.com
+- **LinkedIn:** [linkedin.com/in/aalia98](https://www.linkedin.com/in/aalia98)
+- **Gmail:** [aaliaamin98@gmail.com](mailto:aaliaamin98@gmail.com)
