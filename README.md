@@ -23,7 +23,7 @@ One of my key projects is a full-stack e-commerce platform built with Go, React,
 
 - [Portfolio](https://github.com/Aalia98/Portfolio) - my portfolio website
 - [DSA](https://github.com/Aalia98/DSA) - my DSA practice and solutions
-- [Interview-Questions](https://github.com/Aalia98/Interview-Questions) - interview preparation notes and questions
+- [Backend_Interview_Questions](https://github.com/Aalia98/Backend_Interview_Questions) - interview preparation notes and questions
 - [Kanban-Task-Management](https://github.com/Aalia98/Kanban-Task-Management) - a Kanban-style task management app
 
 ## 📫 Connect With Me
