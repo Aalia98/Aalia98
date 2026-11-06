@@ -22,8 +22,8 @@ One of my key projects is a full-stack e-commerce platform built with Go, React,
 ## 🚀 Selected Work
 
 - [Scalable_E-commerce_System](https://github.com/Aalia98/Scalable_E-commerce_System) - e-commerce backend API in Go with MySQL, Redis and Kafka
-- [DSA](https://github.com/Aalia98/DSA) - my DSA practice and solutions
 - [Backend_Interview_Questions](https://github.com/Aalia98/Backend_Interview_Questions) - interview preparation notes and questions
+- [DSA](https://github.com/Aalia98/DSA) - my DSA practice and solutions
 - [Portfolio](https://github.com/Aalia98/Portfolio) - my portfolio website
 
 ## 📫 Connect With Me
